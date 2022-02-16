@@ -8,3 +8,15 @@ oc get users
 oc get projects
 oc adm policy add-cluster-role-to-user cluster-admin administrator
 ```
+
+```
+oc whoami
+  system:admin
+oc login -u developer -p developer
+oc new-project myproject   # create new proj
+oc project myproject       # change to proj
+oc get pv --as system:admin
+
+
+
+```
