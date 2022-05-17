@@ -23,3 +23,4 @@ oc get pv --as system:admin
 
 + https://livebook.manning.com/book/openshift-in-action/oc-cheat-sheet/
 + https://github.com/nekop/openshift-sandbox/blob/master/docs/command-cheatsheet.md
++ https://sysaix.com/openshift-cheat-sheet
